@@ -1,3 +1,6 @@
+//My cheatsheet Notes 
+// Getting started with Js Basic 
+
 //string
 const name ='Kezia';
 //Number
