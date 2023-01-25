@@ -1,4 +1,5 @@
 //selectors in  Js
+
  //single elements selectors 
  document.getElementById('my-form') 
  //when we console it it gets selected 
